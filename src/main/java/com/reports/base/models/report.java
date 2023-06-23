@@ -26,7 +26,7 @@ public class report {
 
     @Getter
     @Setter
-    String group;
+    String grupo;
 
     @Getter
     @Setter

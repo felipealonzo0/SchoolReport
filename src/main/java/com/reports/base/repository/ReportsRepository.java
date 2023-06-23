@@ -1,4 +1,4 @@
-package com.reports.repository;
+package com.reports.base.repository;
 
 import org.springframework.data.repository.CrudRepository;
 
