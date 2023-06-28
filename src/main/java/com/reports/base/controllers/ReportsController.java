@@ -1,4 +1,4 @@
-package com.reports.controllers;
+package com.reports.base.controllers;
 
 import java.util.ArrayList;
 import java.util.List;

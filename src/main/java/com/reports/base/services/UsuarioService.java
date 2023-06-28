@@ -1,4 +1,4 @@
-package com.reports.services;
+package com.reports.base.services;
 
 import java.util.ArrayList;
 import java.util.Optional;
@@ -6,8 +6,8 @@ import java.util.Optional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.example.base.models.UsuarioModel;
-import com.example.base.repository.UsuarioRepository;
+import com.reports.base.models.UsuarioModel;
+import com.reports.base.repository.UsuarioRepository;
 
 @Service
 public class UsuarioService {
